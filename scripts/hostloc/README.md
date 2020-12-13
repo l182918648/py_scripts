@@ -2,7 +2,7 @@
 
 使用 GitHub Actions 自动获取 Hostloc 论坛积分.
 
-之前基于python的[模拟登陆赚取积分](https://github.com/Arronlong/py_scripts/blob/master/scripts/hostloc/README_py_login.md)和[基于cookie赚取积分](https://github.com/Arronlong/py_scripts/blob/master/scripts/hostloc/README_py_cookie.md)的脚本均已失效，当前只能选择模拟用户真实操作来实现。即打开浏览器，输入论坛网址，在用户名、密码输入框输入值，然后点击登陆，然后再触发js请求随机用户的主页来赚取积分。
+之前基于python的[模拟登陆赚取积分](https://github.com/Arronlong/py_scripts/blob/master/scripts/hostloc/README_py_login.md)和[基于cookie赚取积分](https://github.com/Arronlong/py_scripts/blob/master/scripts/hostloc/README_py_cookie.md)的脚本均已失效（无意间看到[inkuang/hostloc-auto-get-points](https://github.com/inkuang/hostloc-auto-get-points)还可用，大家可以试试，不过每次更新还得pull到自己的项目，有一定的门槛），当前只能选择模拟用户真实操作来实现。即打开浏览器，输入论坛网址，在用户名、密码输入框输入值，然后点击登陆，然后再触发js请求随机用户的主页来赚取积分。
 
 # 效果图
 
